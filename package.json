@@ -1,0 +1,20 @@
+{
+    "name": "dreamce",
+    "version": "1.0.0",
+    "description": "techNotes MERN Project",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    },
+    "dependencies": {
+        "dreamce": "file:",
+        "express": "^5.1.0"
+    }
+}
